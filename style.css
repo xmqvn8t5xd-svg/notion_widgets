@@ -51,7 +51,7 @@ button:focus {
   background-color: rgb(150,180,175);
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 3px 3px rgb(205, 227, 194) inset;
+  box-shadow: 3px 3px rgb(94,130,124) inset;
 }
 
 #display-controls {
@@ -70,7 +70,7 @@ button:focus {
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(205, 227, 194) inset;
 }
 
 #timer-ssr {
