@@ -48,7 +48,7 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: rgb(150,180,175);
+  background-color: rgb(205, 227, 194);
   padding: 20px;
   border-radius: 20px;
   box-shadow: 3px 3px rgb(94,130,124) inset;
@@ -66,11 +66,11 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px;
-  background-color: rgb(150,180,175);
+  background-color: rgb(205, 227, 194);
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(205, 227, 194) inset;
+  box-shadow: 3px 3px rgb(94,130,124) inset;
 }
 
 #timer-ssr {
