@@ -192,7 +192,7 @@ class App extends React.Component {
         ref: audio => {
           this.beepSound = audio;
         },
-        src: "https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav" })));
+        src: "https://mp3tourl.com/audio/1778108461159-af03c51d-cefd-4b75-a1bc-40539e6efc9f.mp3" })));
 
 
 
